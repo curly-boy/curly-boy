@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @curly-boy
+- 👀 I’m interested in telegram bot
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on telegram bot
